@@ -2,3 +2,4 @@ Student Performance & CGPA Classification Model | Python, Scikit-Learn, Google C
 • Built a machine learning workflow utilizing a Decision Tree Classifier to analyze student academic records and predict CGPA performance brackets.
 • Implemented data preprocessing operations using Pandas to clean and structure custom tabular student datasets containing features like names and roll numbers.
 • Evaluated model performance by segmenting data into training and evaluation profiles via train_test_split to track structural classifier validation metrics.
+this is the basic machine learning mini project so that using python libraries and  to train and test the accuracy leve.
